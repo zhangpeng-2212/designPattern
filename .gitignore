@@ -1,0 +1,11 @@
+#忽略当前路径下的.git文件夹
+#/.git/
+#忽略当前路径下的.idea文件夹
+/.idea/
+#忽略所有的.class，.iml文件
+*.class
+*.iml
+#忽略任何路径下的target文件夹
+target/
+# 忽略 doc/ 目录及其所有子目录下的 .pdf 文件
+doc/**/*.pdf
