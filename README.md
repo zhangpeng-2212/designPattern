@@ -1,2 +1,3 @@
 # designPattern
-this is a project to learn design pattern
+设计模式：
+    1.single 单例
