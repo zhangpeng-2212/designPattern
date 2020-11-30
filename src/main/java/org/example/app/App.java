@@ -1,6 +1,8 @@
 package org.example.app;
 
 import org.example.single.Emperor;
+import org.example.single.Emperor2;
+import org.example.single.Emperor3;
 
 /**
  * Hello world!
@@ -9,8 +11,8 @@ import org.example.single.Emperor;
 public class App {
     public static void main( String[] args ) {
        for (int i = 0; i < 10;i++){
-           Emperor emperor=Emperor.getInstance();
-           emperor.saySth();
+           Emperor3 emperor= Emperor3.getInstance();
+           System.out.println(emperor.toString());
        }
     }
 }

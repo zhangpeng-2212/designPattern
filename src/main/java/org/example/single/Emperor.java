@@ -6,26 +6,17 @@ package org.example.single;
  */
 public class Emperor {
 
-    private String name;
-
     //final保证线程安全
-    private static final Emperor  emperor=new Emperor("秦始皇");
+    private static final Emperor  emperor=new Emperor();
 
     //私有的无参构造器
     private Emperor() {
 
-    }
-    //私有的有参构造器
-    private Emperor(String name){
-        this.name = name;
     }
 
     public static Emperor getInstance() {
         return emperor;
     }
 
-    public void saySth(){
-        System.out.println("我是："+name);
-    }
 
 }

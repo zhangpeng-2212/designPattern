@@ -7,12 +7,11 @@ package org.example.single;
  * author：zhangpeng
  */
 public class Emperor3 {
-    private String name;
-    private static final Emperor3 emperor=null;
+    private Emperor3 emperor=null;
 
     //私有的无参构造器
-    private Emperor3(String name) {
-        this.name = name;
+    private Emperor3() {
+
     }
 
     public static Emperor3 getInstance(){
@@ -20,7 +19,7 @@ public class Emperor3 {
     }
 
     private static class Emperor3Holder{
-        private static final Emperor3 INSTANCE=new Emperor3("秦始皇");
+        private static Emperor3 INSTANCE=new Emperor3();
     }
 
 }
