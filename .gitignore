@@ -1,11 +1,17 @@
-#忽略当前路径下的.git文件夹
+#忽略当前路径下的.git文件夹（git版本控制，不可忽略）
 #/.git/
-#忽略当前路径下的.idea文件夹
+#忽略当前路径下的.idea文件夹（idea管理文件夹）
 /.idea/
-#忽略所有的.class，.iml文件
+#忽略.settings文件夹（eclipse文件）
+.settings/
+#忽略logs文件夹（存放日志文件）
+logs/
+#忽略任何路径下的target文件夹（maven编译后存放路径）
+target/
+#忽略所有的.class，.iml，.classpath，.project文件（编译后文件，idea文件，eclipse文件）
 *.class
 *.iml
-#忽略任何路径下的target文件夹
-target/
+.classpath
+.project
 # 忽略 doc/ 目录及其所有子目录下的 .pdf 文件
 doc/**/*.pdf
