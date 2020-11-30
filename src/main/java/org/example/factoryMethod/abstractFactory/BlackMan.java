@@ -1,4 +1,4 @@
-package org.example.factoryMethod.human;
+package org.example.factoryMethod.abstractFactory;
 
 /**
  * 黑色人种

@@ -1,4 +1,4 @@
-package org.example.factoryMethod.human;
+package org.example.factoryMethod.simpleFactory;
 
 /**
  * 接口：人类

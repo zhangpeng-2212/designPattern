@@ -1,4 +1,4 @@
-package org.example.factoryMethod.human;
+package org.example.factoryMethod.abstractFactory;
 
 import org.junit.Assert;
 
