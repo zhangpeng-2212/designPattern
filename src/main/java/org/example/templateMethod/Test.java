@@ -6,6 +6,8 @@ public class Test {
 
         AbstractCar benz=carFactory.createBenz();
         benz.run();
+
+        System.out.println("-----------------------------------");
         
         AbstractCar bmw= carFactory.createBmw();
         bmw.run();
