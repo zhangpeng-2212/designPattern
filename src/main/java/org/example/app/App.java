@@ -13,6 +13,7 @@ public class App {
        for (int i = 0; i < 10;i++){
            Emperor3 emperor= Emperor3.getInstance();
            System.out.println(emperor.toString());
+           kljjkljkfljdsfh
        }
     }
 }
