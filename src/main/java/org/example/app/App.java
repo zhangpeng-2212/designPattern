@@ -1,7 +1,5 @@
 package org.example.app;
 
-import org.example.single.Emperor;
-import org.example.single.Emperor2;
 import org.example.single.Emperor3;
 
 /**
