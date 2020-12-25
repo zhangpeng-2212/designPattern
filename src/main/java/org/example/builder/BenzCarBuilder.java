@@ -7,6 +7,9 @@ import java.util.List;
  */
 public class BenzCarBuilder extends CarBuilder{
 
+    /**
+     * 静态内部类单例
+     */
     private static class BenzCarHolder{
         private static final BenzCar benzCar=new BenzCar();
     }
