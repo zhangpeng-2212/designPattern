@@ -5,4 +5,5 @@
 4.templateMethod 模板方法模式      
 5.builder   建造者模式     
 6.proxy     代理模式    
-7.prototype  原型模式
+7.prototype  原型模式   
+8.mediator  中介者模式
