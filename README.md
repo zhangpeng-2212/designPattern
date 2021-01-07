@@ -6,4 +6,5 @@
 5.builder   建造者模式     
 6.proxy     代理模式    
 7.prototype  原型模式   
-8.mediator  中介者模式
+8.mediator  中介者模式   
+9.command   命令者模式
