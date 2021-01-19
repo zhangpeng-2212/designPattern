@@ -16,6 +16,7 @@ public class Test {
         rsper.askHigher(asker.getLevel().getCode());
     }
 
+    //todo 可以按照工厂方法模式进行优化
     private static Employer getEmployer(int code){
         System.out.println(code);
         if(code==1){
