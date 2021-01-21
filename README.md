@@ -8,4 +8,5 @@
 7.prototype  原型模式   
 8.mediator  中介者模式   
 9.command   命令者模式   
-10.responsibilityChain 责任链模式
+10.responsibilityChain 责任链模式    
+11.decorator 装饰模式
