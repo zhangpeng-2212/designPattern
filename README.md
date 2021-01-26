@@ -10,4 +10,5 @@
 9.command   命令者模式   
 10.responsibilityChain 责任链模式    
 11.decorator 装饰模式    
-12.strategy  策略模式
+12.strategy  策略模式      
+13.adapter   适配器模式
