@@ -11,4 +11,5 @@
 10.responsibilityChain 责任链模式    
 11.decorator 装饰模式    
 12.strategy  策略模式      
-13.adapter   适配器模式
+13.adapter   适配器模式   
+14.iterator  迭代器模式
