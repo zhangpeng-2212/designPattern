@@ -12,4 +12,5 @@
 11.decorator 装饰模式    
 12.strategy  策略模式      
 13.adapter   适配器模式   
-14.iterator  迭代器模式
+14.iterator  迭代器模式   
+15.composite 组合模式
