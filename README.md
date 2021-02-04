@@ -15,4 +15,5 @@
 14.iterator  迭代器模式   
 15.composite 组合模式    
 16.observer  观察者模式     
-17.facade    门面模式
+17.facade    门面模式   
+18.backUp    备忘录模式
