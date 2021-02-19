@@ -16,4 +16,6 @@
 15.composite 组合模式    
 16.observer  观察者模式     
 17.facade    门面模式   
-18.backUp    备忘录模式
+18.backUp    备忘录模式   
+19.vistor    访问者模式   
+20.status    状态模式
