@@ -18,7 +18,7 @@
 17.facade    门面模式   
 18.backUp    备忘录模式   
 19.vistor    访问者模式   
-20.status    状态模式
-21.explain   解释器模式
-22.flyweight 享元模式
-23.bridge    桥梁模式
+20.status    状态模式    
+21.explain   解释器模式    
+22.flyweight 享元模式    
+23.bridge    桥梁模式    
