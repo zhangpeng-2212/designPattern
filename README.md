@@ -1,4 +1,5 @@
 # designPattern  设计模式
+# org.example    例子
 1.single 单例模式  
 2.factoryMethod 工厂方法模式  
 3.abstractFactoryMethod 抽象工厂方法     
@@ -21,4 +22,9 @@
 20.status    状态模式    
 21.explain   解释器模式    
 22.flyweight 享元模式    
-23.bridge    桥梁模式    
+23.bridge    桥梁模式      
+
+# org.compare  相似设计模式比较
+1.create     创建类
+2.constract  结构类
+3.behavior   行为类
