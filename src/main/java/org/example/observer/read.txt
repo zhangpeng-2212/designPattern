@@ -1,0 +1,4 @@
+jdk中的观察者模式：
+观察者需要实现的类：Observer，其主要的是update()方法，处理被观察者的请求
+被观察者需要继承的类：Observable，其主要的是addObserver()、notifyObservers(Object sth)方法，添加和请求（通知）观察者，调用其update()方法
+例：org.compare.behavior.observe.Test.java
